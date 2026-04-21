@@ -147,21 +147,4 @@ This tool is intended for **educational and ethical use only**.
 * Export to PDF/HTML reports
 * Integration with exploit databases
 
----
 
-## 👨‍💻 Author
-
-**Your Name**
-Cybersecurity Enthusiast | VAPT Learner
-
----
-
-## ⭐ Contribute
-
-Pull requests are welcome. For major changes, open an issue first.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
